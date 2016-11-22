@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{10C9A477-09A4-B70A-5329-018AA8CEB8EE}") = "Loading Screen Test", "Assembly-CSharp.csproj", "{C0F3F35B-BB5E-75F5-BDC8-CF71E2BFFEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F3F35B-BB5E-75F5-BDC8-CF71E2BFFEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F3F35B-BB5E-75F5-BDC8-CF71E2BFFEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F3F35B-BB5E-75F5-BDC8-CF71E2BFFEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F3F35B-BB5E-75F5-BDC8-CF71E2BFFEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
