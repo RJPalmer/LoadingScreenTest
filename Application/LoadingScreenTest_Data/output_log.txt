@@ -6,29 +6,25 @@ Direct3D:
     Vendor:   Intel
     VRAM:     3163 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.119 seconds
-Platform assembly: C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\robpal\Documents\Loading Screen Test\Application\LoadingScreenTest_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.108 seconds
+Platform assembly: C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1250 at 0,-170
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.865675 ms
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
+UnloadTime: 0.901598 ms
 Trigger Loading Screen Fade
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
@@ -38,10 +34,18 @@ Trigger Loading Screen Fade
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.164480 ms
+UnloadTime: 4.431976 ms
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 194.
-Total: 0.210405 ms (FindLiveObjects: 0.025979 ms CreateObjectMapping: 0.006735 ms MarkObjects: 0.145936 ms  DeleteObjects: 0.031111 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.736738 ms (FindLiveObjects: 0.070883 ms CreateObjectMapping: 0.017640 ms MarkObjects: 0.548143 ms  DeleteObjects: 0.098466 ms)
+
+Layer Weight: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Exiting Application
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 5f2c -> priority: 1 
+  Thread -> id: c54 -> priority: 1 

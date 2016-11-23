@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C0F3F35B-BB5E-75F5-BDC8-CF71E2BFFEDB}</ProjectGuid>
+    <ProjectGuid>{4F028DCE-817F-5A3D-91B9-9EECD2CE1414}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,9 +45,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\ChangeScene.cs" />
-     <Compile Include="Assets\DontDestroyOnLoad.cs" />
-     <Compile Include="Assets\NewTestScript.cs" />
+     <Compile Include="Assets\Scripts\ChangeScene.cs" />
+     <Compile Include="Assets\Scripts\DontDestroyOnLoad.cs" />
+     <Compile Include="Assets\Scripts\NewTestScript.cs" />
+     <Compile Include="Assets\SendImageToBack.cs" />
+     <Compile Include="Assets\exitButtonScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
