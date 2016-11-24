@@ -16,7 +16,7 @@ Platform assembly: C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Applicatio
 Loading C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.108 seconds
+- Completed reload, in  0.123 seconds
 Platform assembly: C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\robpal\Documents\GitHub\LoadingScreenTest\Application\LoadingScreenTest_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1250 at 0,-170
@@ -24,7 +24,7 @@ desktop: 1920x1080 60Hz; virtual: 3840x1250 at 0,-170
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.901598 ms
+UnloadTime: 0.998140 ms
 Trigger Loading Screen Fade
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
@@ -33,13 +33,21 @@ Trigger Loading Screen Fade
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.431976 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.446730 ms
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 208.
-Total: 0.736738 ms (FindLiveObjects: 0.070883 ms CreateObjectMapping: 0.017640 ms MarkObjects: 0.548143 ms  DeleteObjects: 0.098466 ms)
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 227.
+Total: 0.213291 ms (FindLiveObjects: 0.022772 ms CreateObjectMapping: 0.006094 ms MarkObjects: 0.161011 ms  DeleteObjects: 0.023093 ms)
 
-Layer Weight: 1
+Enter options: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+optionsPanel found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Enter options: False
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -48,4 +56,4 @@ Exiting Application
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: c54 -> priority: 1 
+  Thread -> id: 1cb0 -> priority: 1 
